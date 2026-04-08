@@ -16,3 +16,20 @@ Personal homelab. Experiments, side projects, and things I build for fun.
 - build first, polish later;
 - no deadlines, no stakeholders;
 - just curiosity and coffee.
+
+---
+
+## Related
+
+| Topic | Document |
+|-------|----------|
+| Help, issues, expectations | [`SUPPORT.md`](../SUPPORT.md) |
+| Security reports | [`SECURITY.md`](../SECURITY.md) |
+| This org’s default community files | [`README.md`](../README.md) |
+
+---
+
+<p align="center">
+  <a href="https://github.com/Bedatty-Engineering"><strong>Bedatty Engineering</strong></a> — personal projects and experiments<br />
+  <sub>Thank you for stopping by.</sub>
+</p>
