@@ -26,13 +26,15 @@ Repositories in this organization are **not** all the same license. Pick the lic
 ## Structure
 
 - `profile/README.md`: organization's public README.
-- `.github/ISSUE_TEMPLATE/`: default issue forms.
-- `PULL_REQUEST_TEMPLATE.md`: default pull request template.
+- `.github/ISSUE_TEMPLATE/`: default issue forms *(bug, feature, documentation)*.
+- `.github/PULL_REQUEST_TEMPLATE/`: pull request templates *(default + docs-only)*.
 - `CONTRIBUTING.md`: contribution guide *(includes maintainer notes, e.g. default license heuristics)*.
+- `GOVERNANCE.md`: how decisions are made in this personal org and what this repo controls.
 - `CODE_OF_CONDUCT.md`: expected behavior in org spaces *(Contributor Covenant, org-scoped)*.
 - `SUPPORT.md`: expected support channels.
 - `SECURITY.md`: coordinated vulnerability disclosure and security policy.
-- `CODEOWNERS`: default ownership.
+- `FUNDING.yml`: sponsor links *(GitHub Sponsors)*.
+- `CODEOWNERS`: default ownership for this repository.
 - `LICENSE`: MIT *(this repository’s default; other org repos may differ)*.
 
 ---
@@ -42,6 +44,7 @@ Repositories in this organization are **not** all the same license. Pick the lic
 | Topic | Document |
 |-------|----------|
 | Contributing & license heuristics | [`CONTRIBUTING.md`](CONTRIBUTING.md) |
+| Governance | [`GOVERNANCE.md`](GOVERNANCE.md) |
 | Code of Conduct | [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) |
 | MIT license *(this repository)* | [`LICENSE`](LICENSE) |
 | Help, issues, expectations | [`SUPPORT.md`](SUPPORT.md) |

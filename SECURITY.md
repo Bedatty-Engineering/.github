@@ -70,8 +70,9 @@ This policy applies to all repositories in this organization.
 
 | Topic | Document |
 |-------|----------|
-| Help, issues, expectations | [`SUPPORT.md`](SUPPORT.md) |
-| Security reports | [`SECURITY.md`](SECURITY.md) |
+| Contributing & org norms | [`CONTRIBUTING.md`](CONTRIBUTING.md) |
+| Governance | [`GOVERNANCE.md`](GOVERNANCE.md) |
+| Help & issues *(non-security)* | [`SUPPORT.md`](SUPPORT.md) |
 | This org’s default community files | [`README.md`](README.md) |
 
 ---

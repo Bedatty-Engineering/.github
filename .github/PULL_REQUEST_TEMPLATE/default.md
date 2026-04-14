@@ -53,6 +53,7 @@ Examples: feat(module): add verify-tfc-token composite · fix(workflow): correct
   <sub>Thank you for your contributions.</sub><br>
   <sub>
     <a href="https://github.com/Bedatty-Engineering/.github/blob/main/CONTRIBUTING.md">Contributing</a>
+    · <a href="https://github.com/Bedatty-Engineering/.github/blob/main/GOVERNANCE.md">Governance</a>
     · <a href="https://github.com/Bedatty-Engineering/.github/blob/main/SUPPORT.md">Support</a>
     · <a href="https://github.com/Bedatty-Engineering/.github/blob/main/SECURITY.md">Security</a>
   </sub>

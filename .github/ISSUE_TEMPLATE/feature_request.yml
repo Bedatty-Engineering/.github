@@ -4,6 +4,10 @@ title: "[Feature]: "
 labels:
   - enhancement
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Use the **repository that would host the change**. For org-wide defaults (templates, policies), use this [`.github`](https://github.com/Bedatty-Engineering/.github) repo and read [Governance](https://github.com/Bedatty-Engineering/.github/blob/main/GOVERNANCE.md) first.
   - type: textarea
     id: problem
     attributes:
