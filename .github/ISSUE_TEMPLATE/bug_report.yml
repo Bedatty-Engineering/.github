@@ -7,7 +7,9 @@ body:
   - type: markdown
     attributes:
       value: |
-        Fill in the information below to help with the analysis.
+        Open this issue on the **repository where the bug lives** (not a random org repo). See [Support](https://github.com/Bedatty-Engineering/.github/blob/main/SUPPORT.md) if unsure.
+
+        Fill in the fields below to make the problem reproducible.
   - type: textarea
     id: summary
     attributes:

@@ -33,7 +33,8 @@ Each project has its own issue tracker. Please open the issue in the repository 
 
 | Topic | Document |
 |-------|----------|
-| Help, issues, expectations | [`SUPPORT.md`](SUPPORT.md) |
+| Contributing & license heuristics | [`CONTRIBUTING.md`](CONTRIBUTING.md) |
+| Governance | [`GOVERNANCE.md`](GOVERNANCE.md) |
 | Security reports | [`SECURITY.md`](SECURITY.md) |
 | This org’s default community files | [`README.md`](README.md) |
 

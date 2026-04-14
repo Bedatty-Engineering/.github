@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Organization support
-    url: https://github.com/Bedatty-Engineering
-    about: Update this link to the official support channel.
+  - name: Support & expectations
+    url: https://github.com/Bedatty-Engineering/.github/blob/main/SUPPORT.md
+    about: How issues are handled, timelines, and choosing the right repository.
+  - name: Security policy
+    url: https://github.com/Bedatty-Engineering/.github/blob/main/SECURITY.md
+    about: Coordinated disclosure — read before reporting vulnerabilities.

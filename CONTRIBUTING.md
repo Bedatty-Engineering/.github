@@ -59,6 +59,7 @@ Each project still needs its own root **`LICENSE`**; forks and PRs follow **that
 
 | Topic | Document |
 |-------|----------|
+| Governance | [`GOVERNANCE.md`](GOVERNANCE.md) |
 | Code of Conduct | [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) |
 | MIT license *(`.github` repo)* | [`LICENSE`](LICENSE) |
 | Help, issues, expectations | [`SUPPORT.md`](SUPPORT.md) |

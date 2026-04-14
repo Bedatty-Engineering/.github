@@ -93,6 +93,7 @@ The maintainer may use these **guidelines** (not rigid steps) depending on sever
 | Topic | Document |
 |-------|----------|
 | Contributing & org norms | [`CONTRIBUTING.md`](CONTRIBUTING.md) |
+| Governance | [`GOVERNANCE.md`](GOVERNANCE.md) |
 | Help & issues | [`SUPPORT.md`](SUPPORT.md) |
 | Vulnerabilities *(not conduct)* | [`SECURITY.md`](SECURITY.md) |
 | This repository | [`README.md`](README.md) |
